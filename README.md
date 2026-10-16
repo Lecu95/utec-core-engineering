@@ -1,1 +1,1 @@
-# UTEC Core Engineering Repository
+# UTEC Core Engineering
