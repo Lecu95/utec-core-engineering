@@ -1,8 +1,8 @@
-elephant
-python
-programming
-mother-in-law
-star wars
-matrix
-avatar
-interstellar
+computadora
+programacion
+desarrollador
+base-de-datos
+el padrino
+la vida es bella
+inteligencia artificial
+algoritmo
